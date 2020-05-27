@@ -1,0 +1,3 @@
+Name: Bodei
+Age: 29
+Favorite Color: Pink
